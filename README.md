@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**rejin-kumar/rejin-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rejin — an Associate Manager with 9+ years of experience building and leading front-end applications. 
 
-Here are some ideas to get you started:
+Right now, I'm diving deeper into AI and agent-based systems. Outside of tech, I’m also an artist. Sometimes digital, sometimes pencil and paper. Design’s not just work for me — it’s something I naturally gravitate toward.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠 Currently exploring:  
+- AI agents and automation  
+- Design systems and tooling  
+- Ways to blend creativity with code  
+
+🎨 Also into:  
+- Digital & traditional art  
+- UI/UX design  
+- Creative problem solving  
+
